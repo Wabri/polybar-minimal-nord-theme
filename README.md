@@ -12,6 +12,16 @@ This is the second bar:
 
 I leave even modules not used in my configuration, you never know.
 
+## Requirements
+
+Obviously:
+
+- [Polybar](https://github.com/polybar/polybar)
+
+Fonts:
+
+- Iosevka Nerd Font -> [nerd-fonts_patched-fonts/Iosevka](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka)
+
 ## Install
 
 Simply clone this repo to .confg/polybar:
@@ -19,4 +29,8 @@ Simply clone this repo to .confg/polybar:
 ```Bash
 git clone https://github.com/Wabri/polybar-minimal-nord-theme.git ~/.config/polybar
 ```
+
+## Contributions
+
+Open a issue or a pull request.
 
