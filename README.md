@@ -1,6 +1,6 @@
 # Polybar Minimal Nord Theme
 
-I want a minimal setup for polybar that use nord palettes, so I take the shade preset from [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes#shades) and change it to fit my setup.
+I want a minimal setup for polybar that use [nord palettes](https://www.nordtheme.com/), so I take the shade preset from [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes#shades) and change it to fit [my setup](https://github.com/Wabri/dotfiles).
 
 This is the main bar:
 
