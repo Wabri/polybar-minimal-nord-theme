@@ -30,6 +30,15 @@ Simply clone this repo to .confg/polybar:
 git clone https://github.com/Wabri/polybar-minimal-nord-theme.git ~/.config/polybar
 ```
 
+## How to use
+
+Run the script launch.sh:
+
+```Bash
+cd ~/.config/polybar/
+./launch.sh
+```
+
 ## Contributions
 
 Open a issue or a pull request.
