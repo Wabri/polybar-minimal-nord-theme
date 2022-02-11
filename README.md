@@ -4,11 +4,11 @@ I want a minimal setup for polybar that use [nord palettes](https://www.nordthem
 
 This is the main bar:
 
-![main_bar](screenshot/main_bar.png)
+![main_bar](screenshots/main_bar.png)
 
 This is the second bar:
 
-![second_bar](screenshot/second_bar.png)
+![second_bar](screenshots/second_bar.png)
 
 I leave even modules not used in my configuration, you never know.
 
